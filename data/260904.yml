@@ -1,0 +1,59 @@
+about:
+  description:
+  |
+    :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
+  license: BSD-3-Clause
+  homepage: 
+  head: 94e5b84
+  archived: false
+  latestVersion: 1.1.11
+  collectedAt: 2026-09-04T05:06:09Z
+timeline:
+  created: 2021-08-11
+  lastCommit: 2026-07-01
+  lastRelease: 2024-11-16
+popularity:
+  star: 230
+  watcher: 5
+  fork: 4
+  release: 11
+  contributor: 2
+  pullRequest: 44
+  issue: 5
+language:
+  TypeScript: 20111
+  JavaScript: 14399
+totalBytes: 34510
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 7
+    openPR: 6
+    closedIssue: 0
+    openIssue: 0
+    commit: 7
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 18
+    openPR: 7
+    closedIssue: 0
+    openIssue: 0
+    commit: 17
+  last360d:
+    since: 2025-09-09
+    release: 0
+    mergedPR: 48
+    openPR: 7
+    closedIssue: 0
+    openIssue: 0
+    commit: 49
