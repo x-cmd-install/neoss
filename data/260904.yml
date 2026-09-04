@@ -7,7 +7,7 @@ about:
   head: 94e5b84
   archived: false
   latestVersion: 1.1.11
-  collectedAt: 2026-09-04T20:11:44Z
+  collectedAt: 2026-09-04T20:33:11Z
 timeline:
   created: 2021-08-11
   lastCommit: 2026-07-01
@@ -18,7 +18,7 @@ popularity:
   fork: 4
   release: 11
   contributor: 2
-  pullRequest: 343
+  pullRequest: 344
   issue: 5
 language:
   TypeScript: 20111
@@ -82,7 +82,7 @@ total:
   commit: 672
 ---
 path: /home/runner/.x-repo/github.com/PabloLec/neoss
-collectedAt: 2026-09-04T20:11:46Z
+collectedAt: 2026-09-04T20:33:12Z
 loc:
   Json:
     code: 1907
