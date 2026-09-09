@@ -7,7 +7,7 @@ about:
   latestVersion: "1.1.11"
   latestRelease: "1.1.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T02:12:52Z
+  collectedAt: 2026-09-09T18:23:38Z
 timeline:
   created: 2021-08-11
   lastCommit: 2026-07-01
@@ -50,7 +50,7 @@ recent:
     openPR: 6
     closedIssue: 0
     openIssue: 0
-    commit: 5
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 0
@@ -58,7 +58,7 @@ recent:
     openPR: 7
     closedIssue: 0
     openIssue: 0
-    commit: 15
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 0
@@ -66,7 +66,7 @@ recent:
     openPR: 7
     closedIssue: 0
     openIssue: 0
-    commit: 49
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 1
@@ -84,7 +84,7 @@ total:
   commit: 672
 ---
 path: /home/runner/.x-repo/github.com/PabloLec/neoss
-collectedAt: 2026-09-09T02:12:53Z
+collectedAt: 2026-09-09T18:23:39Z
 loc:
   Json:
     code: 1907
