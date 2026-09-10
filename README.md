@@ -12,6 +12,17 @@
 x install neoss
 ```
 
+## Code insight
+
+Total: **2,899** lines of code across **18** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 1,907 | 0 | 0 | 7 |
+| TypeScript | 604 | 176 | 107 | 8 |
+| JavaScript | 388 | 26 | 59 | 2 |
+| Markdown | 0 | 39 | 18 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/PabloLec/neoss>
@@ -35,19 +46,11 @@ x install neoss
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 5 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 5 | 6 | 0 | 0 | 5 |
+| last180d | 2026-03-14 | 0 | 15 | 7 | 0 | 0 | 15 |
 | 360d | 2025-09-15 | 0 | 48 | 7 | 0 | 0 | 49 |
-
-## Code size
-
-Total: **2,899** lines of code across **18** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 1,907 | 0 | 0 | 7 |
-| TypeScript | 604 | 176 | 107 | 8 |
-| JavaScript | 388 | 26 | 59 | 2 |
-| Markdown | 0 | 39 | 18 | 1 |
+| last720d | 2024-09-20 | 1 | 64 | 10 | 0 | 0 | 129 |
 
 ## Improve this data
 
@@ -58,4 +61,4 @@ Install metadata for neoss lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:48:53Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:15:34Z._
