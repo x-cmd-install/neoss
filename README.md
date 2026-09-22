@@ -35,7 +35,7 @@ Total: **2,899** lines of code across **18** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 230 · **Forks**: 4 · **Open issues**: 5 · **Contributors**: 2
+- **Stars**: 231 · **Forks**: 4 · **Open issues**: 5 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **2,899** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 0 | 2 | 6 | 0 | 0 | 1 |
-| last180d | 2026-03-25 | 0 | 15 | 7 | 0 | 0 | 15 |
-| 360d | 2025-09-26 | 0 | 48 | 7 | 0 | 0 | 49 |
-| last720d | 2024-10-01 | 1 | 59 | 9 | 0 | 0 | 119 |
+| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 0 | 2 | 6 | 0 | 0 | 1 |
+| last180d | 2026-03-26 | 0 | 15 | 7 | 0 | 0 | 15 |
+| 360d | 2025-09-27 | 0 | 48 | 7 | 0 | 0 | 49 |
+| last720d | 2024-10-02 | 1 | 59 | 9 | 0 | 0 | 119 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for neoss lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T02:26:04Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T02:29:45Z._
