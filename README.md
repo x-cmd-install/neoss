@@ -45,12 +45,12 @@ Total: **2,899** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-08 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-08-09 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last180d | 2026-05-11 | 0 | 11 | 7 | 0 | 0 | 11 |
-| 360d | 2025-11-12 | 0 | 39 | 7 | 0 | 0 | 39 |
-| last720d | 2024-11-17 | 0 | 49 | 8 | 0 | 0 | 98 |
+| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-08-10 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last180d | 2026-05-12 | 0 | 10 | 6 | 0 | 0 | 9 |
+| 360d | 2025-11-13 | 0 | 39 | 7 | 0 | 0 | 39 |
+| last720d | 2024-11-18 | 0 | 49 | 8 | 0 | 0 | 98 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for neoss lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T03:47:49Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T03:28:14Z._
